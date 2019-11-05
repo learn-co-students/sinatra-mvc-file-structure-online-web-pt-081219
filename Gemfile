@@ -7,6 +7,8 @@ gem 'rake'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
+gem 'pry-byebug'
+
 
 group :test do
   gem 'rspec'

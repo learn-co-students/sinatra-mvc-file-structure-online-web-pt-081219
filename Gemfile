@@ -12,3 +12,6 @@ group :test do
   gem 'rspec'
   gem 'rack-test'
 end
+
+
+# This file holds a list of all gems being used in an app.
